@@ -12,7 +12,7 @@ open class Settings {
     companion object {
         const val configuration = "Release"
 
-        const val gitRepo = "https://github.com/JetBrains/teamcity-dotnet-samples.git"
+        const val gitRepo = "https://github.com/ronanfabio/teamcity-dotnet-samples.git"
         const val gitBranch = "refs/heads/master"
 
         // You can use versionPrefix to set the "base" version number for your library/app. https://andrewlock.net/version-vs-versionsuffix-vs-packageversion-what-do-they-all-mean/#versionprefix
